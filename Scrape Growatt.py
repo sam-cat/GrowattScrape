@@ -9,7 +9,7 @@ import datetime
 ## Setup a session for this work
 Growatt_session = requests.session()
 
-## Build the login details etc.
+## Build the login details etc....
 payload = {
         
         "account":  "samCatBrowser",
