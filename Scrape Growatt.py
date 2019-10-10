@@ -6,7 +6,7 @@ import sys
 import json
 import datetime
 
-## A comment to make source control kick in...
+## A comment to make source control kick in....
 
 ## Setup a session for this work
 Growatt_session = requests.session()
